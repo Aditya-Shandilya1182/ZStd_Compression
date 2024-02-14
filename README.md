@@ -1,0 +1,1 @@
+A repo I used to learn ZStd compression.
